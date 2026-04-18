@@ -11,7 +11,7 @@ CARP Planner computes the release point for Container Delivery System (CDS) para
 1. Place **CARP_Planner.exe** in any folder on your PC
 2. Double-click to run
 
-No additional software is required.
+No additional software is required. The application will check for updates automatically on startup and notify you when a new version is available.
 
 ---
 
@@ -37,7 +37,19 @@ No additional software is required.
 - Save and load Drop Zone mission profiles
 - HTML data card export (printable from browser)
 - Adjustable font size (A+/A- buttons or Ctrl+=/Ctrl+-)
+- Automatic update checking with in-app download
 - Dark tactical theme for cockpit use alongside MSFS
+
+---
+
+## Updates
+
+The application checks for updates automatically on startup. You can also check manually by clicking the **⟳ Updates** button in the top-right corner of the title bar.
+
+When an update is available, you can choose to:
+- **Download & Install** — downloads the new version and restarts the application automatically
+- **Download Only** — saves the update to a location of your choice for manual installation
+- **Skip** — continue using the current version
 
 ---
 
@@ -59,6 +71,16 @@ No additional software is required.
 ## Further Information
 
 Refer to the **CARP Planner User Manual** (PDF) for detailed instructions on all features, input parameters, weather integration, multi-pass operations, and troubleshooting.
+
+---
+
+## Support Development
+
+If you find CARP Planner useful, consider supporting its development:
+
+☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/phoenixegmh)**
+
+Your support helps fund continued development, new features, and Phase 2 (SimConnect integration).
 
 ---
 
